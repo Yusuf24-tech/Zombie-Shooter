@@ -1,6 +1,6 @@
 var bgImg,shooter,shooting,zombies,heart1Img,heart2Img,heart3Img,bullet,bullets=55;
 var zombieGroup,bulletGroup;
-var gameState="won";
+var gameState="fight";
 var life=3;
 var score=0;
 var restart;
